@@ -16,3 +16,6 @@ Commands:
 
          git restore file_name
 
+// To un-stage file
+
+         git restore --staged file_name
