@@ -1,0 +1,13 @@
+Leaning Git & Github.
+
+Commands:
+
+// To initialize directory as repo.
+             
+          git init
+
+// To add file in staging area.
+
+         git add file_name (to add a particular file).
+     
+         git add . (to add all files existing in current folder).
